@@ -1,0 +1,1 @@
+docker container create -i --name 01container alphine:3.12
